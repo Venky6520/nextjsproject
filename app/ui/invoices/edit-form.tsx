@@ -4,7 +4,6 @@ import { CustomerField, InvoiceForm } from '@/app/lib/definitions';
 import {
   CheckIcon,
   ClockIcon,
-  CurrencyDollarIcon,
   UserCircleIcon,
   CurrencyRupeeIcon
 } from '@heroicons/react/24/outline';

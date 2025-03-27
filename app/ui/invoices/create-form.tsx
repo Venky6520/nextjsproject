@@ -7,7 +7,6 @@ import Link from 'next/link';
 import {
   CheckIcon,
   ClockIcon,
-  CurrencyDollarIcon,
   CurrencyRupeeIcon,
   UserCircleIcon,
 } from '@heroicons/react/24/outline';
